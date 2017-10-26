@@ -1,0 +1,52 @@
+@import "~bootstrap/dist/css/bootstrap.css";  
+.frame{
+    
+    margin-left: 5%;
+	margin-right: 5%;
+	height: 100%;
+	
+	border: 1px;
+	border-left: 20px;
+	border-right: 20px;
+	background-color: whitesmoke;
+	
+    overflow: auto;
+}
+
+hr{
+    color: black;
+}
+
+#checkoutheader{
+  text-align: center;
+}
+/* .paymentheader{
+    margin: 1,1,1,1;
+    border-color: black;
+    width:1000px;
+    background-color: ghostwhite;
+} */
+.maindiv{
+    margin: 1,1,1,1;
+    border-width: 1px;
+    width: 200px;
+    background-color: lightgray;
+    border-color: black;
+}
+.rightcontainer{
+	border-width: 0.025em;
+	border-color: blue;
+	
+	float: right;
+	width: 250px;
+	/* background-color: #A2B964; */
+}
+
+.address{
+    background-color: white;
+}
+
+input{
+    width: 100px;
+
+}
